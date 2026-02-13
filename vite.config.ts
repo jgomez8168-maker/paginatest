@@ -6,7 +6,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
 
   return {
-    base: "/paginatest", // BASE DE GITHUB O NOMBRE DEL REPO
+    base: "/paginatest/", // BASE DE GITHUB O NOMBRE DEL REPO
     server: {
       port: 3000,
       host: '0.0.0.0',
