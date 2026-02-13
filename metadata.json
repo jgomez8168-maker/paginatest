@@ -1,0 +1,7 @@
+{
+  "name": "CambridgeAi - Socratic Math Tutor",
+  "description": "A high-end educational platform using the Socratic method and Gemini AI to help students master mathematics through deep reasoning and image analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
